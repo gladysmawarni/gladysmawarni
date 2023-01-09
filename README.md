@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 # Halo, I'm Gladys! 🌼
 
@@ -47,3 +48,11 @@ me.say_hi()
   <img height="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" />
   <img height="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VSCode" title="VSCode" />
 </div>
+	
+<h3><b>Tools I am learning</b><h3>
+<div align="left">
+  <img height="40" src="https://user-images.githubusercontent.com/78975611/211415167-a07d96bb-496e-4de8-a862-001c0812360d.png" alt="Docker" title="Docker" />
+  <img height="40" src="https://user-images.githubusercontent.com/78975611/211414521-bfd7a1f4-954f-4b63-972c-289520d2826b.png" alt="Scala" title="Scala" />
+
+</div>
+
