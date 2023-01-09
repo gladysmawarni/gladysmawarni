@@ -37,6 +37,11 @@ me.say_hi()
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook" />
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" />
   <img height="40" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" alt="Apache Spark" title="Apache Spark" />
+  <img height="40" src="https://user-images.githubusercontent.com/78975611/211430978-20c2d0f1-18a8-4ff6-b816-b83e0d8576d7.png" alt="PyTorch" title="PyTorch" />
+  <img height="40" src="https://user-images.githubusercontent.com/78975611/211431082-c3a044dc-5bb3-493a-814b-0394a6bc6c66.png" alt="TensorFlow" title="TensorFlow" />
+  <img height="40" src="https://user-images.githubusercontent.com/78975611/211431265-898068ec-b1ce-4dfd-9a15-2e46af2c7248.png" alt="Hugging Face" title="Hugging Face" />
+
+
   <img height="40" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask" />
   <img height="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" />
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" />
