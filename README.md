@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 -->
 # Halo, I'm Gladys! 🌼
 
+<div align="center">
+	<a href="https://www.linkedin.com/in/gladys-mawarni/"><img height="40" src="https://user-images.githubusercontent.com/78975611/212467436-86baa026-019f-49d7-b0d7-b756697be686.png" alt="LinkedIn" title="LinkedIn"/></a>
+	<a href="https://user-images.githubusercontent.com/78975611/212467813-b840ec8f-a6f5-481c-9d26-c3074080546e.png"><img height="40" src="https://user-images.githubusercontent.com/78975611/212467606-1fbe254f-70de-4b65-9e7b-6d631bdc446b.png" alt="UpWork" title="UpWork"/></a>
+
+
+
+</div>
+
 ```python
 class DataAnalyst:
     def __init__(self):
